@@ -12,7 +12,16 @@ config_version=5
 
 config/name="godot-super-sprint-starter"
 config/features=PackedStringArray("4.5", "Mobile")
-config/icon="res://icon.svg"
+config/icon="uid://yyr47gbb1gym"
+
+[display]
+
+window/stretch/mode="canvas_items"
+
+[editor]
+
+naming/scene_name_casing=1
+naming/script_name_casing=1
 
 [rendering]
 
